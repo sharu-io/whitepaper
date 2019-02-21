@@ -81,7 +81,7 @@ This is also the minimum setup to share files: In this scenario, User A only sha
 
 But this minimal setup is by far not enough if you want to share files seriously. For this reason, anyone can set up an IPFS node that, depending on the configuration, will make files available over IPFS even if the Sharu app is not running.
 
-We ourselves offer a Sharu node that pins all files up to a size of 10MB, which is enough to play around with Sharu. Our work on a Sharu node has not yet been completed. But as soon as we have a releasable version we will open source it.
+We ourselves offer a Sharu node that pins all files up to a size of 10MB, which is enough to play around with Sharu. Our work on a Sharu node has not yet been completed, a [very basic first version](https://github.com/sharu-io/pinning-node) is already there.
 
 ![Pinning](files/pinning.jpeg)
 
